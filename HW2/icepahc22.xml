@@ -998,5 +998,5 @@
 <word pos="SCONJ" lemma="sem" />sem</word>
 <word pos="NOUN" lemma="línlak" />línlak</word>
 <word pos="ADP" lemma="í" />í</word>
-<(.+?)[\t](.+?)[\t](.+)>
+<(.+)[\t](.+)[\t](.+)>
 <<word pos="\3" lemma="\2" />\1</word>>
