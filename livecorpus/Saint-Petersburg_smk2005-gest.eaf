@@ -2935,7 +2935,7 @@
         PARENT_REF="gesture@smk2005f" PARTICIPANT="@smk2005f" TIER_ID="gestMeaning@smk2005f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a653" ANNOTATION_REF="a650">
-                <ANNOTATION_VALUE>жест - речевое действие, перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест - речевое действие: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2945,67 +2945,67 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a676" ANNOTATION_REF="a654">
-                <ANNOTATION_VALUE>жест внутреннего состояния, задуматься</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задуматься</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1353" ANNOTATION_REF="a1352">
-                <ANNOTATION_VALUE>жест внутреннего состояния, задуматься</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задуматься</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1355" ANNOTATION_REF="a1354">
-                <ANNOTATION_VALUE>риторический жест, подчеркивает эмфазу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический жест: подчеркивает эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a677" ANNOTATION_REF="a655">
-                <ANNOTATION_VALUE>изобразительный жест, совместность действия</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: совместность действия</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a679" ANNOTATION_REF="a656">
-                <ANNOTATION_VALUE>изобразительный жест, изображает платье</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: изображает платье</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a680" ANNOTATION_REF="a657">
-                <ANNOTATION_VALUE>изобразительный жест, изображает пояс</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: изображает пояс</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a681" ANNOTATION_REF="a658">
-                <ANNOTATION_VALUE>риторический жест, подчеркивает эмфазу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический жест: подчеркивает эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a682" ANNOTATION_REF="a659">
-                <ANNOTATION_VALUE>изобразительный жест, изображает галстук</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: изображает галстук</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a683" ANNOTATION_REF="a660">
-                <ANNOTATION_VALUE>изобразительный жест, изображает завязывание галстука</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: изображает завязывание галстука</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a684" ANNOTATION_REF="a661">
-                <ANNOTATION_VALUE>риторический жест, подчеркивает эмфазу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический жест: подчеркивает эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a685" ANNOTATION_REF="a662">
-                <ANNOTATION_VALUE>жест-речевое действие, отрицание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест-речевое действие: отрицание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a686" ANNOTATION_REF="a663">
-                <ANNOTATION_VALUE>изобразительный жест, изображает мимов</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: изображает мимов</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a687" ANNOTATION_REF="a664">
-                <ANNOTATION_VALUE>изобразительный жест, изображает ходьбу на ходулях</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: изображает ходьбу на ходулях</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
