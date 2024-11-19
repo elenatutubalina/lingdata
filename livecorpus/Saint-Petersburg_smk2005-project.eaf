@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-18T15:23:00+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-19T12:32:08+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -13239,7 +13239,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a650"
                 TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts188">
-                <ANNOTATION_VALUE>поднимает обе руки, левая ладонь направлена вверх, правая налево. правой загибает четыре пальца, в порядке от мизинца к указательному, большой палец остается оттопыреным</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поднимает обе руки, левая ладонь направлена вверх, правая налево. правой загибает четыре пальца, в порядке от мизинца к указательному, большой палец остается оттопыренным</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13269,7 +13269,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a655"
                 TIME_SLOT_REF1="ts415" TIME_SLOT_REF2="ts432">
-                <ANNOTATION_VALUE>поднимает обе руки на уровень груди (ладони друг к другу), поводит левой в сторону,потом складывает обе ладони вместе перед грудью, немного опускает</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поднимает обе руки на уровень груди (ладони друг к другу), поводит левой в сторону, потом складывает обе ладони вместе перед грудью, немного опускает</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13311,7 +13311,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a662"
                 TIME_SLOT_REF1="ts560" TIME_SLOT_REF2="ts578">
-                <ANNOTATION_VALUE>правая рука остается на месте с раскрытой ладонью, направленной к другой руке. левая машет указательным пальцем перед собой справа налево , правая рука тоже поднимает указательный палец, направленный к собесненику. складывает руки вместе на колени</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>правая рука остается на месте с раскрытой ладонью, направленной к другой руке. левая машет указательным пальцем перед собой справа налево , правая рука тоже поднимает указательный палец, направленный к собеседнику. складывает руки вместе на колени</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13329,7 +13329,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a664"
                 TIME_SLOT_REF1="ts659" TIME_SLOT_REF2="ts682">
-                <ANNOTATION_VALUE>наклоняется вперед корпусом, руки согнуты в локте, ладони впереди локтей в кулаках. двигает руками вперед-назад несколько раз. поднимает локти почти на уровень плеч, руки сложены в локте, кулаки на уровне плечей слегка впереди</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>наклоняется вперед корпусом, руки согнуты в локте, ладони впереди локтей в кулаках. двигает руками вперед-назад несколько раз. поднимает локти почти на уровень плеч, руки сложены в локте, кулаки на уровне плеч слегка впереди</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13383,7 +13383,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5086"
                 TIME_SLOT_REF1="ts860" TIME_SLOT_REF2="ts899">
-                <ANNOTATION_VALUE>руки ладонями друг к другу, двигает руками полукругами несколько раз. заканчивает в положении ладони на уровне плечей, развернуты друг к другу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>руки ладонями друг к другу, двигает руками полукругами несколько раз. заканчивает в положении ладони на уровне плеч, развернуты друг к другу</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13701,7 +13701,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5208"
                 TIME_SLOT_REF1="ts2379" TIME_SLOT_REF2="ts2392">
-                <ANNOTATION_VALUE>складывает руки перпенидкулярно и качает ими вниз</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>складывает руки перпендикулярно и качает ими вниз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
